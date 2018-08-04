@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\.android\build-cache\7e0b51c4c78cd7dd785caefa04e771e757b1ccb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\classes_eb2c0f9527716c69642c2ba537409a3f98694ba3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="339dc30925afa20b5269035df5dfc59418be9270">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b951da7b11c9ebfb105704d00ef7d1254893c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\.android\build-cache\cca8b6a6aac20f2304b33d839d1af4daf1a49a1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\classes_cc1d76fc0cd404d6e15d7d6f08f2da31a155c2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\.android\build-cache\2a3811dce55cacaf6db7c41d538d91281f630fe3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\classes_3821c93e3274c60687d9c74bcf57f7f2f4710d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\.android\build-cache\60889b2dca0c6fa3cc7182eda9975c807fa457fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\classes_926dfd60d835576ccb023627e83697ab79755166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\.android\build-cache\742aa2ea1d5277a8a16aa4f62cc4f373f5717ef2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\classes_38263c69cbe3c7c4b8b87a5284a67084d2d3d710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\.android\build-cache\7e0b51c4c78cd7dd785caefa04e771e757b1ccb9\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_954a30a1d9ba0055ec465a5dbe8f12c4bc640096.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0545d8a790969ec47ae86c8f32020ec372afc26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\.android\build-cache\d97c51b091db9561eae15539c429a661b9754bd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\classes_a5efd41fe46fbc61450f912c53eb3c7a82567892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\vishesh\AndroidStudioProjects\User-Authentication-using-Keystroke-Dynamics-master\User-Authentication-using-Keystroke-Dynamics-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_3053ac47cb04fa7d3fab0cd4de8af5bf9b1194e7.jar" />
+    </item>
+
+</items>
